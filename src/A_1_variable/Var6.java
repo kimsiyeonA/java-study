@@ -1,4 +1,4 @@
-package A_variable;
+package A_1_variable;
 
 // 변수 초기화를 안한다면
 public class Var6 {

@@ -1,4 +1,4 @@
-package A_variable;
+package A_1_variable;
 
 // 변수 타입 - 정해진 규격대로 담을 수 있다.
 public class Var7 {

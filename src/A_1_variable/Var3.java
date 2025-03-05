@@ -1,4 +1,4 @@
-package A_variable;
+package A_1_variable;
 
 // 변수 값 변경
 public class Var3 {

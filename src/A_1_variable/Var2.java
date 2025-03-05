@@ -1,4 +1,4 @@
-package A_variable;
+package A_1_variable;
 
 public class Var2 { // 변수 선언과 초기화
     public static void main(String[] args) {

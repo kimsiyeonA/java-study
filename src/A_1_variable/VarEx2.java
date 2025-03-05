@@ -1,4 +1,4 @@
-package A_variable;
+package A_1_variable;
 
 //  쉬움
 public class VarEx2 {
