@@ -1,4 +1,4 @@
-package A_1_variable;
+package A_1_Variable;
 
 // 변수 초기화
 // 선언한 변수에 처음으로 값을 저장하는 것을 변수 초기화라 한다.

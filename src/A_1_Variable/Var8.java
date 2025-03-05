@@ -1,4 +1,4 @@
-package A_1_variable;
+package A_1_Variable;
 
 // 변수 타입 2
 // 다양한 숫자 타입 알기
