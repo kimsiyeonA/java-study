@@ -1,0 +1,67 @@
+Main 클래스
+main 함수
+System.out => 표준 출력(모니터) == 대상
+println(); => 모니터에 출력기능 사용해 라는 명렁
+System.out.println();
+
+명사
+철수.손 => 철수의 손
+동사
+철수.달려(); => 철수(이)가 달린다.
+
+int x; 변수 선언
+x = 10; 변수 초기화 == 값을 넣어주는 최초의 행위
+x = 20;
+x = x+x;
+int y;
+System.out.println("x "+y); // 에러, y의 값이 없어서
+
+int x; 변수 선언
+x = 10; 변수 초기화 == 값을 넣어주는 최초의 행위
+x = 20; 값 할당
+x = x+x; 재할당 == 변수의 값을 다시 넣는 행위 (변수에 한번에 딱 하나만 넣을 수 있기 때문에 덮어쓰기된다)
+int y = 0;
+System.out.println("x "+y); // 에러, y의 값이 없어서
+
+* 중요할게 생각할 것 -> 시점이 있고, 실행 순서와 우선순위가 있다는것
+
+
+숫자 + 문자 => 자료형이 같아야 연산이 가능하다.
+숫자가 문장으로 변환됨
+
+변수명 명명 규칙
+
+연산자 우선순위
+
+자바 자료형 => 형태, 예약어 외우기
+기본 자료형(Primitive Data Type)
+    정수형	byte
+    정수형	short
+    정수형	int
+    정수형	long
+    문자형	char
+    실수형	float
+    실수형	double
+    논리형	boolean
+참조 자료형 (Reference Data Type)
+    String	문자열을 저장하는 데 사용되는 클래스입니다.
+    ArrayList	동적 배열을 나타내는 클래스입니다.
+    HashMap	키-값 쌍을 저장하는 데 사용되는 클래스입니다.
+    HashSet	고유한 요소를 저장하는 데 사용되는 클래스입니다.
+    LinkedList	연결 리스트를 나타내는 클래스입니다.
+    Queue	큐를 나타내는 인터페이스입니다.
+    Stack	스택을 나타내는 클래스입니다.
+래퍼 클래스(Wrapper Class)
+    진위형	boolean	Boolean
+    문자형	char	Character
+    정수형	byte	Byte
+    정수형	short	Short
+    정수형	int	Integer
+    정수형	long	Long
+    실수형	float	Float
+    실수형	double	Double
+
+
+
+
+
