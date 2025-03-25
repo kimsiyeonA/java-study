@@ -1,4 +1,4 @@
-package A_1_Variable;
+package infJava1_1.A_1_Variable;
 
 public class Var1 {
     public static void main(String[] args) {

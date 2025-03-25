@@ -1,4 +1,4 @@
-package A_2_Operator;
+package infJava1_1.A_2_Operator;
 
 // 증감연산자
 // ++ , --로 표현되며 변수의 값을 1만큼 증가시키거나 감소시킴

@@ -1,3 +1,5 @@
+package infJava1_1;
+
 public class CommemtJava {
     public static void main(String[] args) { //psvm+enter
         System.out.println("hello java1"); 

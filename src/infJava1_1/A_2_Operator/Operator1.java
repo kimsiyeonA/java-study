@@ -1,4 +1,4 @@
-package A_2_Operator;
+package infJava1_1.A_2_Operator;
 
 // 산술 연산자 - 산술 연산자는 주로 숫자를 계산하는 데 사용
 /*  + (더하기)

@@ -1,4 +1,4 @@
-package A_1_Variable;
+package infJava1_1.A_1_Variable;
 
 // 변수 초기화를 안한다면
 public class Var6 {

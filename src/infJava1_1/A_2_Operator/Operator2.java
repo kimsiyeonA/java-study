@@ -1,4 +1,4 @@
-package A_2_Operator;
+package infJava1_1.A_2_Operator;
 
 // 문자열 더하기
 // 문자열에도 + 연산자를 사용할 수 있다. 문자열에 + 연산자를 사용하면 두 문자를 연결할 수 있다

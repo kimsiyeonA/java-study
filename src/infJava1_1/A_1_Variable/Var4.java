@@ -1,4 +1,4 @@
-package A_1_Variable;
+package infJava1_1.A_1_Variable;
 
 // 변수의 선언
 // 데이터를 보관할 수 있는 컴퓨터의 메모리공간을 확보에서 그곳에 데이터를 저장할 수 있다.

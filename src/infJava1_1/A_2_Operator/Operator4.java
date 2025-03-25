@@ -1,4 +1,4 @@
-package A_2_Operator;
+package infJava1_1.A_2_Operator;
 
 // 연산자 우선순위
 public class Operator4 { //
