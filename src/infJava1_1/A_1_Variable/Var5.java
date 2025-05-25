@@ -3,7 +3,7 @@ package infJava1_1.A_1_Variable;
 // 변수 초기화
 // 선언한 변수에 처음으로 값을 저장하는 것을 변수 초기화라 한다.
 public class Var5 {
-    public static void main(String[] args) {
+    public static void main(String[] args) { // 실행 단축키 : ctrl+shift+f10
         // 1. 변수 선언, 초기화 각각 따로
         int a ;
         a = 1;
