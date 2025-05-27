@@ -7,6 +7,19 @@ public class Operator5 {
     public static void main(String[] args) {
         int a = 0;
 
-        a = a + 1;
+        a = a + 1; // 0 + 1
+        System.out.println("a = " + a); // 1
+
+        a = a + 1; // 1 + 1
+        System.out.println("a = " + a); // 2
+
+        // 증감 연산자
+        ++a; // a = a + 1 : 변수에 있는 값을 증가시킴
+        System.out.println("a = " + a); // 3
+        ++a; // a = a + 1
+        System.out.println("a = " + a); // 4
+
+        --a; // 감소
+        System.out.println("a = " + a); // 3
     }
 }
