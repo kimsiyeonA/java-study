@@ -22,7 +22,7 @@ public class Operator6 {
         // b = a // a의 값을 먼저 b에 대입 b = 1
         // a = a + 1 // 이후에 a의 값을 증가 a =2
         System.out.println("a = " + a +", b = " + b); // 결과 : a = 2, b = 1
-        
+
         // 증감 연산자를 단독으로 사용하는 경우에는 다른 연산이 없기 때문에 본인의 값만 증가함
         // shift + F10 이전 코드 실행
     }
