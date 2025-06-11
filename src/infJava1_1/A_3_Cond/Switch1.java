@@ -1,4 +1,4 @@
-package infJava1_1.A_3_Comd;
+package infJava1_1.A_3_Cond;
 
 // if문으로 만들기, switch 기본 설명
 public class Switch1 {

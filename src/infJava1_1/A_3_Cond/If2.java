@@ -1,4 +1,4 @@
-package infJava1_1.A_3_Comd;
+package infJava1_1.A_3_Cond;
 
 // if else 조건문
 // 조건문 : 특정 조건에 따라서 다른 코드를 실행하는 것

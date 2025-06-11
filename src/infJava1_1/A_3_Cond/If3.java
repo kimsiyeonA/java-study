@@ -1,4 +1,4 @@
-package infJava1_1.A_3_Comd;
+package infJava1_1.A_3_Cond;
 
 // else if 조건문
 // 불필요한 조건 검사를 피하고 코드의 효율성을 향상시킬 수 있다.

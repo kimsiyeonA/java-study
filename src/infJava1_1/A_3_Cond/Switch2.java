@@ -1,4 +1,4 @@
-package infJava1_1.A_3_Comd;
+package infJava1_1.A_3_Cond;
 
 // switch 문 예시
 public class Switch2 {

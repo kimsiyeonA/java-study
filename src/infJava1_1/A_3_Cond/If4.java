@@ -1,4 +1,4 @@
-package infJava1_1.A_3_Comd;
+package infJava1_1.A_3_Cond;
 
 // else if 적용
 public class If4 {

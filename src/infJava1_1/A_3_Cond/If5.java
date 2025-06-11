@@ -1,4 +1,4 @@
-package infJava1_1.A_3_Comd;
+package infJava1_1.A_3_Cond;
 
 // if문과 else if문
 // if문과 else if문을 함께 사용하는 것은 서로 연관된 조건일때 사용

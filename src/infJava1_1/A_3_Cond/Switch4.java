@@ -1,4 +1,4 @@
-package infJava1_1.A_3_Comd;
+package infJava1_1.A_3_Cond;
 
 // 새로운 형식 switch 문 / 자바 14 이상에서 사용 가능
 public class Switch4 {
