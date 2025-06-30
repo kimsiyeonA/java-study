@@ -1,4 +1,4 @@
-package infJava1_1.A_5_Scope;
+package infJava1_1.A_5_Scope_Casting;
 
 // 지역변수와 스코프
 // 변수를 선언한 위치에 따라 지역변수, 맴버 변수(클래스 변수, 인스턴스 변수)와 같이 분류된다.

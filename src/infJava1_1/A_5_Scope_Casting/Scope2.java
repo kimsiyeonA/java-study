@@ -1,4 +1,4 @@
-package infJava1_1.A_5_Scope;
+package infJava1_1.A_5_Scope_Casting;
 
 public class Scope2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package infJava1_1.A_5_Scope;
+package infJava1_1.A_5_Scope_Casting;
 
 // 스코프 존재 이유
 
