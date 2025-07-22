@@ -1,4 +1,4 @@
-package infJava1_1;
+package infJava1_1.A_0;
 
 public class HelloJava2 {
     public static void main(String[] args) {

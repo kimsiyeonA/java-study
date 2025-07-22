@@ -1,4 +1,4 @@
-package infJava1_1;
+package infJava1_1.A_0;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
