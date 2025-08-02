@@ -1,6 +1,6 @@
 package infJava_A_Start.A_3_Cond;
 
-// If문 - if 
+// If문 - if
 // 조건문 : 특정 조건에 따라서 다른 코드를 실행하는 것
 public class If1 {
     public static void main(String[] args) {
