@@ -2,6 +2,7 @@ package infJava_B_Basic.A_4_Construct;
 
 // 생성자가 필요한 이유
 // 객체를 생성하는 시점에 어떤 작업을 하고 싶다면 생성자(Constructor)를 이용하면 된다.
+
 public class MethodInitMain1 {
     public static void main(String[] args) {
         MemberInit member1 = new MemberInit();
