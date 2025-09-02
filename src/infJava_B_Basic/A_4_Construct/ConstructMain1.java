@@ -1,6 +1,6 @@
 package infJava_B_Basic.A_4_Construct;
 
-// 생성자 - 도입 - 생성자 참조 클래스
+// 생성자 - 도입 - 생성자 참조 실행 클래스
 
 public class ConstructMain1 {
     public static void main(String[] args) {
