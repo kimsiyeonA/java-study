@@ -1,6 +1,6 @@
 package infJava_B_Basic.A_4_Construct;
 
-// 생성자 - 오버로딩과 this() - 참조 클래스
+// 생성자 - 오버로딩과 this() - 실행 클래스
 
 public class ConstructMain2 {
     public static void main(String[] args) {
