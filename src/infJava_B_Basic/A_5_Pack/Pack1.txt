@@ -1,0 +1,60 @@
+패키지 - 시작
+
+여러분이 쇼핑몰 시스템을 개발한다고 가정해보자.
+다음과 같이 프로그램이 매우 작고 단순해서 클래스가 몇게 없다면 크게 고민할 거리가 없겠지만,
+기능이 점점 추가되어서 프로그램이 아주 커지게 된다면 어떻게 될까?
+
+아주 작은 프로그램
+Order
+User
+Product
+
+큰 프로그램
+User
+UserManager
+UserHistory
+Product
+ProductCatalog
+ProductImage
+Order
+OrderService
+OrderHistory
+ShoppingCart
+CartItem
+Payment
+PaymentHistory
+Shipment
+ShipmentTracker
+
+매우 많은 클래스가 등장하면서 관련 있는 기능들을 분류해서 관리하고 싶을 것이다.
+컴퓨터는 보통 파일을 분류하기 위해 폴더, 디렉토리라는 개념을 제공한다.
+자바도 이런 개념을 제공하는데, 이것이 바로 패키지이다.
+=> 자바에서 구분하기 쉽게 폴더 기능을 제공한다.
+
+
+카테고리를 만들고 분류해보자.
+* user -> 사용자 패키지에는 사용자와 관련된 것들이 들어있는것 그룹화!
+ * User
+ * UserManager
+ * UserHistory
+* product
+ * Product
+ * ProductCatalog
+ * ProductImage
+* order
+ * Order
+ * OrderService
+ * OrderHistory
+* cart
+ * ShoppingCart
+ * CartItem
+* payment
+ * Payment
+ * PaymentHistory
+* shipping
+ * Shipment
+ * ShipmentTracker
+
+여기서 user , product 등이 바로 패키지이다.
+그리고 해당 패키지 안에 관련된 자바 클래스들을 넣으면 된다.
+패키지(package)는 이름 그대로 물건을 운송하기 위한 포장 용기나 그 포장 묶음을 뜻한다
