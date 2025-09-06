@@ -1,6 +1,6 @@
 package infJava_B_Basic.A_5_Pack;
 
-// 패키지 사용 1 - import 사옹
+// 패키지 사용 2 - import 사옹
 
 // 이전에 본 코드와 같이 패키지가 다르다고 pack.a.User 와 같이 항상 전체 경로를 적어주는 것은 불편하다.
 // 이때는 import 를 사용하면 된다
