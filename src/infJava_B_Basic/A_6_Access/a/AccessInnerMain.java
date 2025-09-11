@@ -1,0 +1,34 @@
+package infJava_B_Basic.A_6_Access.a;
+
+// 접근 제어자 사용 - 필드, 메서드 레벨의 접근 제어자
+
+// 같은 패키지 다른 클래스
+
+public class AccessInnerMain {
+    public static void main(String[] args) {
+        AccessData data = new AccessData();
+        // public 호출 가능
+        data.publicField = 1;
+        data.publicMethod();
+
+        // 같은 패키지 default 호출 가능
+        data.defaultField = 2;
+        data.defaultMethod();
+
+        // private 호출불가 나타나지도 않음
+        // data.privateField = 3; > 에러 발생
+        // data.privateMethod();
+
+        data.innerAccess(); // -> AccessData 내부에서 매서드가 실행되어 호출된다. 우회해서 돌아가는 느낌
+    }
+}
+
+// - 패키지 위치는 package access.a 이다.
+//   패키지 위치를 꼭 맞추어야 한다. 주의하자.
+// - public 은 모든 접근을 허용하기 때문에 필드, 메서드 모두 접근 가능하다.
+// - default 는 같은 패키지에서 접근할 수 있다.
+//   AccessInnerMain 은 AccessData 와 같은 패키지이다. 따라서 default 접근 제어자에 접근할 수 있다.
+// - private 은 AccessData 내부에서만 접근할 수 있다. 따라서 호출 불가다.
+// - AccessData.innerAccess() 메서드는 public 이다. 따라서 외부에서 호출할 수 있다.
+//   innerAccess() 메서드는 외부에서 호출되었지만 innerAccess() 메서드는 AccessData 에 포함되어 있다.
+//   이 메서드는 자신의 private 필드와 메서드에 모두 접근할 수 있다.
